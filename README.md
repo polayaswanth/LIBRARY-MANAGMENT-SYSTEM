@@ -29,4 +29,3 @@ step 6: create a file with cli.py (cli==>command line insterface).
 step 7: Once your FastAPI application and database models are set up, you can run the application with:
         uvicorn main:app --reload
 
-
